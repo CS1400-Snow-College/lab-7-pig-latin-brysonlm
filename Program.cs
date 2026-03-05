@@ -43,4 +43,20 @@ for (int i = 0; i < words.Length; i++)
 }
 
 string fullPigLatin = string.Join(" ", pigLatinWords);
-Console.WriteLine($"In pig latin that is: " {fullPigLatin});
+Console.WriteLine($"In pig latin that is:  {fullPigLatin}");
+
+Random rand = new Random();
+int offset = rand.Next(1,26);
+
+char[] encryptedChars = fullPigLatin.ToCharArray();
+
+for (int i = 0; i < encryptedChars.Length; i++)
+{
+    if (encryptedChars [i] != ' ')
+    {
+        encryptedChars[i] = (char)((int)encryptedChars[i] + offset);
+    }
+}
+
+string encryptedMessage = new string(encryptedChars);
+Console.WriteLine($"when encrypted that is: {encryptedMessage}");
