@@ -28,5 +28,19 @@ for (int i = 0; i < words.Length; i++)
                 break;
             }
         }
+
+        if (firstVowelIndex == -1)
+        {
+            pigLatinWords[i] = word + "ay" + punctuation;
+        }
+        else
+        {
+            string cluster = word.Substring(0,firstVowelIndex);
+            string rest = word.Substring(firstVowelIndex);
+            pigLatinWords[i] = rest + cluster + "ay" + punctuation;
+        }
     }
 }
+
+string fullPigLatin = string.Join(" ", pigLatinWords);
+Console.WriteLine($"In pig latin that is: " {fullPigLatin});

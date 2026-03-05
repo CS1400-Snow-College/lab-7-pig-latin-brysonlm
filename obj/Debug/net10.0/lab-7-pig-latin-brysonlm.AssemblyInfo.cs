@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-7-pig-latin-brysonlm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+748965b66bc77b8a59beef531aaeeedb802f6968")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ad840122a08278cfde2a8282c21610188f9bfeb")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-7-pig-latin-brysonlm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-7-pig-latin-brysonlm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
