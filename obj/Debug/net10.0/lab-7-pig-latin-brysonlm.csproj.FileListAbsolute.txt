@@ -1,0 +1,15 @@
+C:\Users\leonb\my-code-dir\lab-7-pig-latin-brysonlm\bin\Debug\net10.0\lab-7-pig-latin-brysonlm.exe
+C:\Users\leonb\my-code-dir\lab-7-pig-latin-brysonlm\bin\Debug\net10.0\lab-7-pig-latin-brysonlm.deps.json
+C:\Users\leonb\my-code-dir\lab-7-pig-latin-brysonlm\bin\Debug\net10.0\lab-7-pig-latin-brysonlm.runtimeconfig.json
+C:\Users\leonb\my-code-dir\lab-7-pig-latin-brysonlm\bin\Debug\net10.0\lab-7-pig-latin-brysonlm.dll
+C:\Users\leonb\my-code-dir\lab-7-pig-latin-brysonlm\bin\Debug\net10.0\lab-7-pig-latin-brysonlm.pdb
+C:\Users\leonb\my-code-dir\lab-7-pig-latin-brysonlm\obj\Debug\net10.0\lab-7-pig-latin-brysonlm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonb\my-code-dir\lab-7-pig-latin-brysonlm\obj\Debug\net10.0\lab-7-pig-latin-brysonlm.AssemblyInfoInputs.cache
+C:\Users\leonb\my-code-dir\lab-7-pig-latin-brysonlm\obj\Debug\net10.0\lab-7-pig-latin-brysonlm.AssemblyInfo.cs
+C:\Users\leonb\my-code-dir\lab-7-pig-latin-brysonlm\obj\Debug\net10.0\lab-7-pig-latin-brysonlm.csproj.CoreCompileInputs.cache
+C:\Users\leonb\my-code-dir\lab-7-pig-latin-brysonlm\obj\Debug\net10.0\lab-7-pig-latin-brysonlm.sourcelink.json
+C:\Users\leonb\my-code-dir\lab-7-pig-latin-brysonlm\obj\Debug\net10.0\lab-7-pig-latin-brysonlm.dll
+C:\Users\leonb\my-code-dir\lab-7-pig-latin-brysonlm\obj\Debug\net10.0\refint\lab-7-pig-latin-brysonlm.dll
+C:\Users\leonb\my-code-dir\lab-7-pig-latin-brysonlm\obj\Debug\net10.0\lab-7-pig-latin-brysonlm.pdb
+C:\Users\leonb\my-code-dir\lab-7-pig-latin-brysonlm\obj\Debug\net10.0\lab-7-pig-latin-brysonlm.genruntimeconfig.cache
+C:\Users\leonb\my-code-dir\lab-7-pig-latin-brysonlm\obj\Debug\net10.0\ref\lab-7-pig-latin-brysonlm.dll
